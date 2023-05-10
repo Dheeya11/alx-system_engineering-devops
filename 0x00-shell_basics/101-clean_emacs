@@ -1,0 +1,4 @@
+#!/bin/bash
+ if [ -f "$file" ]; then
+    mv "$file" /tmp/u
+
