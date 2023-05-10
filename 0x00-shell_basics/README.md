@@ -1,2 +1,2 @@
 #!/bin/bash
-Adding a filr to the new repo
+Adding a file to the new repo
