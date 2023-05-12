@@ -1,2 +1,3 @@
 #!/bin/bash
-$(whoami)
+"Current user: $(whoami)"
+
